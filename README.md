@@ -3,12 +3,7 @@
 
 
 
-<img aling = "center"
-alt = "Es una FotoGato"
-title = "Foto Mia"
-height = 130px
-width = 500px
-src = "imagenes/Banner.png">
+![banner](imagenes/Banner.png "Mi banner")
 
 <h2 Style = "color: #ffffbf" >I am a computer engineering student who loves:</h2>
 
