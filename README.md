@@ -8,7 +8,7 @@ alt = "Es una FotoGato"
 title = "Foto Mia"
 height = 130px
 width = 500px
-src = "Banner.png">
+src = "imagenes/Banner.png">
 
 <h2 Style = "color: #ffffbf" >I am a computer engineering student who loves:</h2>
 
@@ -18,32 +18,31 @@ src = "Banner.png">
     <ol> 
         <li style = "color: #572364">Numbers</li>
         <!------------------------>
-        <img src = "unmedio.PNG"
+        <img src = "imagenes/unmedio.PNG"
         width = 50px 
         height = 30>
         <!------------------------>
         <li style = "color: #53295e">Games</li>
         <!------------------------>
-        <img src = "steve.jpg"
+        <img src = "imagenes/steve.jpg"
         width = 50px 
         height = 50px>
         <!------------------------>
         <li style = "color: #5c1b6c">Music</li>
         <!------------------------>
-        <img src = "Musica.gif"
+        <img src = "imagenes/Musica.gif"
         width = 50px 
         height = 50px>
         <!------------------------>
         <li style = "color: #683475"><strong>Melon juice</strong></li>
         <!------------------------>
-        <img src = "JugoDeMelon.jpg"
+        <img src = "imagenes/JugoDeMelon.jpg"
         width = 50px 
         height = 50px>
     </ol>
 </div>
 
-<img src = "papu.gif" height = "120px"
-aling = "center">
+<img src = "imagenes/papu.gif" height = "120px" aling = "center">
 
 <div>
 
