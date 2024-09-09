@@ -46,7 +46,7 @@
 </div>
 
 <div>
-## I am a CS50x.ni staff
+<h2 Style = "color: #ffffbf"> I am a CS50x.ni staff </h2>
     
 ![CodeFU](https://prueba-badge-readme.vercel.app/badge.svg)
 
