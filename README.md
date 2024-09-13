@@ -49,6 +49,6 @@
 <h2 Style = "color: #ffffbf"> I am a CS50x.ni staff </h2>
     
 ![CodeFU staff](https://code-fu-readme-badge.vercel.app/badges/jsolis.svg)
-
+![CodeFU](https://code-fu-readme-badge.vercel.app/badges/default-badge.svg)
 </div>
 
